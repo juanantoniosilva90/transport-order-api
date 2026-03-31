@@ -32,6 +32,5 @@ API REST para la gestión de órdenes de transporte de una empresa de movilidad.
 
 ### Usando Docker (Recomendado)
 
-1. Clonar el repositorio:
 ```bash
 https://github.com/juanantoniosilva90/# transport-order-api
